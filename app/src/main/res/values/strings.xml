@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Class Journal</string>
+    <string name="btnEmailFaci">EMAIL FACI</string>
+    <string name="txtViewWeek">Week</string>
+    <string name="txtViewDG">DG</string>
+    <string name="btnSubmit">Submit</string>
+    <string name="btnEmail">EMAIL FACI</string>
+
+    <string name="btnAdd1">ADD</string>
+    <string name="btnInfo1">INFO</string>
+    <string name="btnEMAIL1">EMAIL</string>
+</resources>
